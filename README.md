@@ -13,13 +13,13 @@ Este projeto tem como objetivo principal **democratizar o conhecimento** sobre a
 
 ## Destaques do Projeto
 
-**Interface intuitiva:** O design clean e organizado facilita a navegação do usuário, proporcionando uma experiência agradável.
-**Código bem estruturado:** O código é organizado de forma clara e concisa, facilitando a compreensão e a manutenção.
-CSS responsivo e semântico:** O CSS utilizado garante que o projeto se adapte a diferentes dispositivos e tamanhos de tela, além de utilizar classes e seletores com significado claro, melhorando a acessibilidade e a manutenibilidade do código.
+* **Interface intuitiva:** O design clean e organizado facilita a navegação do usuário, proporcionando uma experiência agradável.
+* **Código bem estruturado:** O código é organizado de forma clara e concisa, facilitando a compreensão e a manutenção.
+* **CSS responsivo e semântico:** O CSS utilizado garante que o projeto se adapte a diferentes dispositivos e tamanhos de tela, além de utilizar classes e seletores com significado claro, melhorando a acessibilidade e a manutenibilidade do código.
 
 ## Como Utilizar
 
-**Acesse o endereço:**  "". **Pronto!** Lá voce poderá utilizá-lo livremente. 
+**Acesse o endereço:**  "". **Pronto!** Lá você poderá utilizá-lo livremente para pesquisar sobre tecnologia, com enfoque em **Front-End** e **Inteligência Artificial**. 
 
 ## Contribuindo
 
