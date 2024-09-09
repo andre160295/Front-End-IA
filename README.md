@@ -19,7 +19,7 @@ Este projeto tem como objetivo principal **democratizar o conhecimento** sobre a
 
 ## Como Utilizar
 
-**Acesse o endereço:**  "". **Pronto!** Lá você poderá utilizá-lo livremente para pesquisar sobre tecnologia, com enfoque em **Front-End** e **Inteligência Artificial**. 
+**Acesse o endereço:** "https://front-end-ia-six.vercel.app/". **Pronto!** Lá você poderá utilizá-lo livremente para pesquisar sobre tecnologia, com enfoque em **Front-End** e **Inteligência Artificial**. 
 
 ## Contribuindo
 
